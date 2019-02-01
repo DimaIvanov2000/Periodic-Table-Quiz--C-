@@ -4,7 +4,7 @@ A program which quizzes the user on some attributes of elements on the periodic 
 
 ## How to Run
 
-Download the file and / or run the code on your IDE of choice (Codeblocks or DevC++ should both work). There are two versions of this quiz which have slightly varying functionality. "pTableOmnicodeV1.c" asks for the names derived from atomic numbers and "atomicMasses1.c" asks for the atomic masses (as outlined by a very particular table and not to any consistent number of deciml places) derived from names.
+Download the file and / or run the code on your IDE of choice (Codeblocks or DevC++ should both work). There are two versions of this quiz which have slightly varying functionality. "pTableOmnicodeV1.c" asks for the names derived from atomic numbers and "atomicMasses1.c" asks for the atomic masses (as outlined by a very particular table and not to any consistent number of decimal places) derived from names.
 
 ## How to Use
 
